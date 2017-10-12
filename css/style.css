@@ -1,0 +1,27 @@
+h3, p{
+  font-weight: 100;
+}
+
+
+.z-depth-2{
+  width: 120px;
+  height: 120px;
+  background:#80deea;
+  padding-right: 1px;
+  margin:0;
+  padding:0;
+
+}
+
+#start .text{
+  text-align: left;
+  margin-right: 10px;
+}
+
+.cell{
+  color: #FFF;
+  text-align: center;
+  padding-top: 30px;
+  font-size: 42px;
+  font-weight: 300;
+}
